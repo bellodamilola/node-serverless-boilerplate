@@ -1,0 +1,10 @@
+node_modules
+dist
+.eslintrc.js
+.jest.config.js
+lambda.js
+src/migrations
+src/apis
+src/helpers
+jest.config.js
+services/cognito.js
